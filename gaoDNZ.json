@@ -2232,16 +2232,6 @@
     }
   },
   "basic-avatar-odc": {
-    "scale-border-state-hover": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
     "layout-elevation-state-default": {
       "1": {
         "value": {
@@ -2249,7 +2239,7 @@
           "y": "{dimension.2}",
           "blur": "{dimension.2}",
           "spread": "{dimension.2}",
-          "color": "{basic.grey.4}",
+          "color": "rgba(0,0,0,0.2)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2260,44 +2250,8 @@
       }
     },
     "color-bg-state-defult": {
-      "gradientblue": {
-        "value": "{gradient.blue}",
-        "type": "color"
-      },
-      "black100": {
-        "value": "{opacity.black.100}",
-        "type": "color"
-      },
       "brand5": {
         "value": "{basic.brand.5}",
-        "type": "color"
-      },
-      "amber5": {
-        "value": "{basic.amber.5}",
-        "type": "color"
-      },
-      "blue5": {
-        "value": "{basic.blue.5}",
-        "type": "color"
-      },
-      "cyan5": {
-        "value": "{basic.cyan.5}",
-        "type": "color"
-      },
-      "green5": {
-        "value": "{basic.green.5}",
-        "type": "color"
-      },
-      "indigo5": {
-        "value": "{basic.indigo.5}",
-        "type": "color"
-      },
-      "orange5": {
-        "value": "{basic.orange.5}",
-        "type": "color"
-      },
-      "red5": {
-        "value": "{basic.red.5}",
         "type": "color"
       }
     },
@@ -2307,7 +2261,7 @@
         "type": "color"
       },
       "black100": {
-        "value": "{color-bg-state-defult.black100}",
+        "value": "{opacity.black.100}",
         "type": "color"
       }
     },
@@ -2365,7 +2319,7 @@
         "type": "typography"
       }
     },
-    "scale-border-date": {
+    "scale-border-state-default": {
       "0": {
         "value": "{boderWidth.0}",
         "type": "borderWidth"
@@ -2377,6 +2331,12 @@
       "2": {
         "value": "{boderWidth.2}",
         "type": "borderWidth"
+      }
+    },
+    "color-border-state-default": {
+      "color-border-state-default": {
+        "value": "{basic.green.6}",
+        "type": "color"
       }
     }
   },
