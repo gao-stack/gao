@@ -2233,7 +2233,7 @@
   },
   "basic-avatar-odc": {
     "layout-elevation-state-default": {
-      "1": {
+      "ture": {
         "value": {
           "x": "{dimension.2}",
           "y": "{dimension.2}",
@@ -2244,7 +2244,7 @@
         },
         "type": "boxShadow"
       },
-      "none": {
+      "false": {
         "value": "none",
         "type": "boxShadow"
       }
@@ -2314,7 +2314,7 @@
       }
     },
     "text-state-default": {
-      "buttoncn16": {
+      "avatarcn16": {
         "value": "{button.cn.16}",
         "type": "typography"
       }
