@@ -2311,30 +2311,6 @@
         "type": "color"
       }
     },
-    "color-icon-state-defult": {
-      "white100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      },
-      "gold7": {
-        "value": "{basic.gold.7}",
-        "type": "color"
-      }
-    },
-    "color-bg-state-hover": {
-      "blue2": {
-        "value": "{basic.blue.2}",
-        "type": "color"
-      },
-      "grey8": {
-        "value": "{basic.grey.8}",
-        "type": "color"
-      },
-      "white64": {
-        "value": "{opacity.white.64}",
-        "type": "color"
-      }
-    },
     "shape-borderradius-state-default": {
       "4": {
         "value": "{borderRadius.4}",
