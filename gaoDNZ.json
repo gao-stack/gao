@@ -2239,7 +2239,7 @@
           "y": "{dimension.2}",
           "blur": "{dimension.4}",
           "spread": "{dimension.2}",
-          "color": "rgba(128,128,128,0.12)",
+          "color": "rgba(91,91,91,0.12)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2252,10 +2252,6 @@
     "color-bg-state-defult": {
       "brand5": {
         "value": "{gradient.4}",
-        "type": "color"
-      },
-      "": {
-        "value": "{color-text-state-defult.white100}",
         "type": "color"
       }
     },
@@ -2354,26 +2350,6 @@
           "paragraphSpacing": "{paragraphSpacing.0}"
         },
         "type": "typography"
-      }
-    },
-    "scale-border-state-default": {
-      "0": {
-        "value": "{boderWidth.0}",
-        "type": "borderWidth"
-      },
-      "1": {
-        "value": "{boderWidth.1}",
-        "type": "borderWidth"
-      },
-      "2": {
-        "value": "{boderWidth.2}",
-        "type": "borderWidth"
-      }
-    },
-    "color-border-state-default": {
-      "color-border-state-default": {
-        "value": "{basic.green.6}",
-        "type": "color"
       }
     },
     "texture-avatar-state-default": {
