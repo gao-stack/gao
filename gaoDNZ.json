@@ -2253,6 +2253,10 @@
       "brand5": {
         "value": "{gradient.4}",
         "type": "color"
+      },
+      "": {
+        "value": "{color-text-state-defult.white100}",
+        "type": "color"
       }
     },
     "color-text-state-defult": {
