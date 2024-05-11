@@ -2317,6 +2317,28 @@
       "avatarcn16": {
         "value": "{button.cn.16}",
         "type": "typography"
+      },
+      "avatarcn20": {
+        "value": {
+          "fontFamily": "{fontFamilies.pingfang-sc}",
+          "fontWeight": "Regular",
+          "fontSize": "{fontSize.5}",
+          "lineHeight": "{lineHeights.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}"
+        },
+        "type": "typography"
+      },
+      "avatarcn12": {
+        "value": {
+          "fontFamily": "{fontFamilies.pingfang-sc}",
+          "fontWeight": "Regular",
+          "fontSize": "{fontSize.1}",
+          "lineHeight": "{lineHeights.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}"
+        },
+        "type": "typography"
       }
     },
     "scale-border-state-default": {
@@ -2338,6 +2360,10 @@
         "value": "{basic.green.6}",
         "type": "color"
       }
+    },
+    "texture-avatar-state-default": {
+      "value": "file:///Users/dingdaozhilian/Downloads/头像/avatar.png",
+      "type": "asset"
     }
   },
   "————————": {},
