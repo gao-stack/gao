@@ -2231,7 +2231,7 @@
       }
     }
   },
-  "basic-avatar-odc": {
+  "basic-avatar-odc-dark": {
     "layout-elevation-state-default": {
       "ture": {
         "value": {
@@ -2251,7 +2251,7 @@
     },
     "color-bg-state-defult": {
       "brand5": {
-        "value": "{basic.brand.5}",
+        "value": "{gradient.4}",
         "type": "color"
       }
     },
@@ -4553,7 +4553,8 @@
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "basic": "source"
+        "basic": "source",
+        "basic-avatar-odc-dark": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
@@ -4601,7 +4602,7 @@
     "tokenSetOrder": [
       "basic（new）",
       "basic-button-odc",
-      "basic-avatar-odc",
+      "basic-avatar-odc-dark",
       "————————",
       "basic",
       "button",
