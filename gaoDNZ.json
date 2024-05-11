@@ -2446,13 +2446,13 @@
         "type": "color"
       }
     },
-    "scale-width-state-default": {
+    "scale-inputwidth-state-default": {
       "1380": {
         "value": "{dimension.1380}",
         "type": "sizing"
       }
     },
-    "scale-height-state-default": {
+    "scale-inputheight-state-default": {
       "72": {
         "value": "{dimension.72}",
         "type": "sizing"
@@ -2484,6 +2484,18 @@
       "96": {
         "value": "{dimension.96}",
         "type": "dimension"
+      }
+    },
+    "scale-textwidth-state-default": {
+      "1200": {
+        "value": "{dimension.1200}",
+        "type": "sizing"
+      }
+    },
+    "scale-textheigh-state-default-copy": {
+      "24": {
+        "value": "{dimension.24}",
+        "type": "sizing"
       }
     }
   },
