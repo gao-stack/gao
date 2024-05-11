@@ -2237,9 +2237,9 @@
         "value": {
           "x": "{dimension.2}",
           "y": "{dimension.2}",
-          "blur": "{dimension.2}",
+          "blur": "{dimension.4}",
           "spread": "{dimension.2}",
-          "color": "rgba(0,0,0,0.2)",
+          "color": "rgba(128,128,128,0.12)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2343,6 +2343,17 @@
           "paragraphSpacing": "{paragraphSpacing.0}"
         },
         "type": "typography"
+      },
+      "avatarcn24": {
+        "value": {
+          "fontFamily": "{fontFamilies.pingfang-sc}",
+          "fontWeight": "Regular",
+          "fontSize": "{fontSize.6}",
+          "lineHeight": "{lineHeights.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}"
+        },
+        "type": "typography"
       }
     },
     "scale-border-state-default": {
@@ -2366,8 +2377,10 @@
       }
     },
     "texture-avatar-state-default": {
-      "value": "file:///Users/dingdaozhilian/Downloads/头像/avatar.png",
-      "type": "asset"
+      "avatarline": {
+        "value": "file:///Users/dingdaozhilian/Downloads/头像/avatar.png",
+        "type": "asset"
+      }
     }
   },
   "————————": {},
