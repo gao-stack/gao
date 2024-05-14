@@ -2249,13 +2249,13 @@
         "type": "boxShadow"
       }
     },
-    "color-bg-state-defult": {
+    "color-bg-state-default": {
       "brand5": {
         "value": "{gradient.4}",
         "type": "color"
       }
     },
-    "color-text-state-defult": {
+    "color-text-state-default": {
       "white100": {
         "value": "{opacity.white.100}",
         "type": "color"
