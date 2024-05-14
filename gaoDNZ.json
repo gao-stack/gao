@@ -2401,7 +2401,7 @@
         "type": "spacing"
       }
     },
-    "color-bg-state-defult": {
+    "color-bg-state-default": {
       "opacityodcgold}": {
         "value": "{opacity.odc.gold}",
         "type": "color"
@@ -2411,7 +2411,7 @@
         "type": "color"
       }
     },
-    "color-text-state-defult": {
+    "color-text-state-default": {
       "white100": {
         "value": "{opacity.white.100}",
         "type": "color"
@@ -2439,7 +2439,7 @@
         "type": "typography"
       }
     },
-    "color-border-state-defult": {
+    "color-border-state-default": {
       "white64": {
         "value": "{opacity.white.64}",
         "type": "color"
@@ -2467,7 +2467,7 @@
         "type": "sizing"
       }
     },
-    "scale-textheigh-state-default-copy": {
+    "scale-textheigh-state-default": {
       "24": {
         "value": "{dimension.24}",
         "type": "sizing"
