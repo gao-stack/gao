@@ -2232,7 +2232,7 @@
     }
   },
   "basic-avatar-odc-dark": {
-    "layout-elevation-state-default": {
+    "material-elevation-state-default": {
       "ture": {
         "value": {
           "x": "{dimension.2}",
@@ -2313,7 +2313,7 @@
         "type": "sizing"
       }
     },
-    "text-state-default": {
+    "font-state-default": {
       "avatarcn14": {
         "value": "{button.cn.14}",
         "type": "typography"
@@ -2327,9 +2327,9 @@
         "type": "typography"
       }
     },
-    "texture-avatar-state-default": {
-      "avatarline": {
-        "value": "file:///Users/dingdaozhilian/Downloads/头像/avatar.png",
+    "material-avatar-state-default": {
+      "avatarimage": {
+        "value": "avatar.png",
         "type": "asset"
       }
     }
@@ -2433,7 +2433,7 @@
         "type": "sizing"
       }
     },
-    "text-state-default": {
+    "font-text-state-default": {
       "bodycn24": {
         "value": "{body.cn.24}",
         "type": "typography"
