@@ -2314,41 +2314,16 @@
       }
     },
     "text-state-default": {
+      "avatarcn14": {
+        "value": "{button.cn.14}",
+        "type": "typography"
+      },
       "avatarcn16": {
         "value": "{button.cn.16}",
         "type": "typography"
       },
-      "avatarcn20": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "Regular",
-          "fontSize": "{fontSize.5}",
-          "lineHeight": "{lineHeights.0}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}"
-        },
-        "type": "typography"
-      },
-      "avatarcn12": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "Regular",
-          "fontSize": "{fontSize.1}",
-          "lineHeight": "{lineHeights.0}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}"
-        },
-        "type": "typography"
-      },
-      "avatarcn24": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "Regular",
-          "fontSize": "{fontSize.6}",
-          "lineHeight": "{lineHeights.0}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}"
-        },
+      "avatarcn18": {
+        "value": "{button.cn.18}",
         "type": "typography"
       }
     },
