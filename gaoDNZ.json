@@ -2365,7 +2365,7 @@
         "type": "boolean"
       }
     },
-    "layout-elevation-state-default": {
+    "material-elevation-state-default": {
       "none": {
         "value": "none",
         "type": "boxShadow"
