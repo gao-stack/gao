@@ -2287,7 +2287,7 @@
         "type": "borderRadius"
       }
     },
-    "scale-size-state-default": {
+    "scale-width-state-default": {
       "32": {
         "value": "{dimension.32}",
         "type": "sizing"
@@ -2332,6 +2332,32 @@
         "value": "https://sop-cdn.dingcloud.com/filez/icon/mh97x2irv7vsw8egq3zbuq5cz6wdjohp20240514110811326.png",
         "type": "asset"
       }
+    },
+    "scale-height-state-default": {
+      "32": {
+        "value": "{dimension.32}",
+        "type": "sizing"
+      },
+      "48": {
+        "value": "{dimension.48}",
+        "type": "sizing"
+      },
+      "56": {
+        "value": "{dimension.56}",
+        "type": "sizing"
+      },
+      "64": {
+        "value": "{dimension.64}",
+        "type": "sizing"
+      },
+      "72": {
+        "value": "{dimension.72}",
+        "type": "sizing"
+      },
+      "80": {
+        "value": "{dimension.80}",
+        "type": "sizing"
+      }
     }
   },
   "basic-input-odc-dark": {
@@ -2372,19 +2398,19 @@
       }
     },
     "shape-borderradius-state-default": {
-      "Radius8": {
+      "8": {
         "value": "{borderRadius.8}",
         "type": "borderRadius"
       },
-      "Radius24": {
+      "24": {
         "value": "{borderRadius.24}",
         "type": "borderRadius"
       },
-      "Radius32": {
+      "32": {
         "value": "{borderRadius.32}",
         "type": "borderRadius"
       },
-      "Radius200": {
+      "200": {
         "value": "{borderRadius.200}",
         "type": "borderRadius"
       }
